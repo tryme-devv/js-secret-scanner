@@ -1,7 +1,7 @@
 # Create project directory
 cd ~
-mkdir js-secret-scanner
-cd js-secret-scanner
+mkdir js-secret-scannerr
+cd js-secret-scannerr
 
 # Create the enhanced main script
 cat > js-secret-scanner.sh << 'EOF'
